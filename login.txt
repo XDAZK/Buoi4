@@ -8,6 +8,7 @@
 </head>
 <body>
 	<b>name-local</b>
+    <b>name-remote</b>
     <b>name</b>
 </body>
 </html>
